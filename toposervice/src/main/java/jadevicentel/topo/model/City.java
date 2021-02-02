@@ -1,4 +1,4 @@
-package ja.devicentel.topo.model;
+package jadevicentel.topo.model;
 
 public class City {
 

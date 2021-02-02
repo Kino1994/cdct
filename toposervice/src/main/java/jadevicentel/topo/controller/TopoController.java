@@ -1,8 +1,8 @@
-package ja.devicentel.topo.controller;
+package jadevicentel.topo.controller;
 
-import ja.devicentel.topo.model.City;
-import ja.devicentel.topo.model.CityDTO;
-import ja.devicentel.topo.service.TopoService;
+import jadevicentel.topo.model.City;
+import jadevicentel.topo.model.CityDTO;
+import jadevicentel.topo.service.TopoService;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;

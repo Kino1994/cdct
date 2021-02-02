@@ -1,8 +1,8 @@
-package ja.devicentel.topo.service;
+package jadevicentel.topo.service;
 
 import org.springframework.stereotype.Service;
 
-import ja.devicentel.topo.model.City;
+import jadevicentel.topo.model.City;
 
 import java.util.concurrent.ConcurrentHashMap;
 import java.util.concurrent.ConcurrentMap;

@@ -10,7 +10,7 @@
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>ja.devicentel</groupId>
+	<groupId>jadevicentel</groupId>
 	<artifactId>toposervice</artifactId>
 	<version>0.1.0-SNAPSHOT</version>
 
@@ -68,7 +68,7 @@
 				<configuration>
 					<testFramework>JUNIT5</testFramework>
 					<baseClassForTests>
-						ja.devicentel.topo.BaseCDC
+						jadevicentel.topo.BaseCDC
 					</baseClassForTests>
 				</configuration>
 			</plugin>
